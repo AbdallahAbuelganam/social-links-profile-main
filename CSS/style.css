@@ -53,6 +53,7 @@ main.profile {
 .name {
     font-weight: 700;
     font-size: 26px;
+    text-transform: capitalize;
 }
 
 .city {
@@ -70,6 +71,8 @@ main.profile {
     display: block;
     font-weight: 600;
     margin: 14px 12px;
+    text-decoration: none;
+    color: white;
 }
 
 /* active states */
